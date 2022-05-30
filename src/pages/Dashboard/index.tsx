@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     fontSize: 22,
     color: '#fff',
-    borderWidth: 1,
+    borderWidth: 0.4,
     borderColor: '#8a8a8a'
   },
   button: {
